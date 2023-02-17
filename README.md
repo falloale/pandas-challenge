@@ -1,6 +1,6 @@
-# pandas-challenge - DNF
+# pandas-challenge - Updated
 
-**##District Summary **
+## District Summary **
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
@@ -15,7 +15,7 @@ Average reading score
 
 
 
-**School Summary**
+## School Summary**
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
@@ -36,13 +36,13 @@ Sort the schools by % Overall Passing in descending order and display the top 5 
 **Lowest-Performing Schools (by % Overall Passing)**
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 
-**Math Scores by Grade**
+## Math Scores by Grade**
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-**Reading Scores by Grade**
+## Reading Scores by Grade**
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-**Scores by School Spending**
+## Scores by School Spending**
 Create a table that breaks down school performance based on average spending ranges (per student).
 create a DataFrame called spending_summary.
 
@@ -53,9 +53,9 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
-**Scores by School Size**
+## Scores by School Size**
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
-**Scores by School Type**
+## Scores by School Type**
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 This new DataFrame should show school performance based on the "School Type".
