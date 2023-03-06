@@ -59,3 +59,8 @@ Create a DataFrame called size_summary that breaks down school performance based
 ## Scores by School Type**
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 This new DataFrame should show school performance based on the "School Type".
+
+## Analysis
+
+Bailey Highschool has the highest budget, # of students and Budget per student. Their average overall passing rate is 79% and ranks in the lower half of the schools in the district. Holden Highschool has the lowest total budget and lowest per student budget and ranks in the middle for overall passing rate in the district. Cabrera High School is the highest performing by % of overall passing with Ford High School as the lowest performing school by % overall passing. Larger schools have the lowest overall passing rate by nearly 20%. 
+
