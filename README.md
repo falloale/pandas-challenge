@@ -62,5 +62,5 @@ This new DataFrame should show school performance based on the "School Type".
 
 ## Analysis
 
-Bailey Highschool has the highest budget, # of students and Budget per student. Their average overall passing rate is 79% and ranks in the lower half of the schools in the district. Holden Highschool has the lowest total budget and lowest per student budget and ranks in the middle for overall passing rate in the district. Cabrera High School is the highest performing by % of overall passing with Ford High School as the lowest performing school by % overall passing. Larger schools have the lowest overall passing rate by nearly 20%. 
+Bailey Highschool has the highest budget, # of students and Budget per student. Their average overall passing rate is 54% and ranks in the lower half of the schools in the district. Holden Highschool has the lowest total budget and lowest per student budget and ranks in the middle for overall passing rate in the district. Cabrera High School is the highest performing by % of overall passing with Ford High School as the lowest performing school by % overall passing. Charter schools have a higher overall passing rate by 37% and outscore District schools in Math and Reading.
 
